@@ -20,6 +20,7 @@ To run the application flask app in local
 To access server the site camera 
 1. Till now it able to capture the image from server site camera
 
+## General Structure 
 ![](Capture.PNG)
 
 
