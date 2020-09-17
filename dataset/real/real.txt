@@ -1,1 +1,1 @@
-real
+Use gather_example.py to capture real images 
