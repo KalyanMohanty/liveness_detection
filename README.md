@@ -5,7 +5,7 @@
 Captures the viedo form webcam
 ## gather_example.py
 Gathers the face data of real and fake faces to the database
-##train_liveness.py
+## train_liveness.py
 To train the model on real and fake images
 ## liveness_demo.py
 The python file runs with the help of arg pass
