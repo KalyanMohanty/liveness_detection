@@ -1,1 +1,1 @@
-
+Use gather_example.py to capture fake images 
