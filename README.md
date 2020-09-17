@@ -15,7 +15,10 @@ python liveness_demo.py --model liveness.model --le le.pickle --detector face_de
 ## noargpass
 The python file runs without the help of arg pass
 ## app.py
-To run the application flask app
+To run the application flask app in local
+## app2.py
+To access server the site camera 
+1. Till now it able to capture the image from server site camera
 
 ![](Capture.PNG)
 
