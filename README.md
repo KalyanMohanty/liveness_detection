@@ -1,5 +1,5 @@
 # liveness_detection
-![](directory.PNG)
+![](Capture.PNG)
 
 command to run code
 python liveness_demo.py --model liveness.model --le le.pickle --detector face_detector
